@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      host: mongo-product-service
+      port: 27017
+#ESTA ES LA CONFIGURACION DEL ARCHIVO DE CONFIGURACION SOBREESCRIBE LA CONFIGURACION LOCAL DEFINICA EN EL MICROSERVICIO
+server:
+  port: 8010
+
+#ESTA ES UNA CONFIGURACION PERSONALIZADA QUE SERA UTILIZADA DENTRO DEL COMPONENTE
+configuracion:
+  texto: configuracion entorno de produccion de eureka config
