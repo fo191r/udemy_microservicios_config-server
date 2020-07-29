@@ -1,3 +1,3 @@
 #ESTA ES UNA CONFIGURACION PERSONALIZADA QUE SERA UTILIZADA DENTRO DEL COMPONENTE
 configuracion:
-  texto: configuracion entorno de desarrollo de eureka config para product-service
+  texto: configuracion entorno de desarrollo de eureka config para product-service por medio de actuator
